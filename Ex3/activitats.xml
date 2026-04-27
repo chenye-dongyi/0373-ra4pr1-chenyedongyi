@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE activitats SYSTEM "activitats.dtd">
+<activitats>
+  <activitat codi="ACT01" tipus="esportiva">
+    <nom>Bàsquet</nom>
+    <monitor>Pau Casals</monitor>
+    <horari>Dimarts i dijous 16:00-17:30</horari>
+    <participant>Jordi Puig</participant>
+    <participant>Laura Mas</participant>
+    <participant>Marc Ferrer</participant>
+    <lloc>interior</lloc>
+  </activitat>
+  <activitat codi="ACT02" tipus="artistica">
+    <nom>Pintura</nom>
+    <monitor>Anna Vidal</monitor>
+    <participant>Clàudia Roca</participant>
+    <participant>Bernat Soler</participant>
+    <lloc>interior</lloc>
+  </activitat>
+</activitats>
