@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="botiga.xsd">
+  <producte id="P001" estat="nou">
+    <nom>Portàtil UltraBook Pro</nom>
+    <preu>899.99</preu>
+    <stock>15</stock>
+    <categoria>informatica</categoria>
+    <marca>LaptopBrand</marca>
+    <etiqueta>portatil</etiqueta>
+    <etiqueta>gaming</etiqueta>
+    <etiqueta>windows</etiqueta>
+  </producte>
+  <producte id="P002" estat="oferta">
+    <nom>El Senyor dels Anells</nom>
+    <preu>12.50</preu>
+    <stock>42</stock>
+    <categoria>llibres</categoria>
+    <etiqueta>fantasia</etiqueta>
+    <etiqueta>classic</etiqueta>
+  </producte>
+</botiga>
